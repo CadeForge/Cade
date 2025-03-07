@@ -1,2 +1,2 @@
-#Portfolio
-Cade's Website
+# Cade
+My Portfolio Site
